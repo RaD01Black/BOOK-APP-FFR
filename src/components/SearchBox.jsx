@@ -1,5 +1,5 @@
 import { FaSearchengin } from "react-icons/fa";
-import styles from "./SeartchBox.module.css"
+import styles from "./SearchBox.module.css"
 
 function SearchBox({ search , setSearch, searchHandler}) {
   return (
